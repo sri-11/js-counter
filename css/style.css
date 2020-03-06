@@ -1,0 +1,17 @@
+#b1{
+    border: 2px solid black;
+    display: inline-block;
+    /* color: black; */
+}
+
+#t1{
+    display: inline-block;
+    /* color: black; */
+    width: 15%;
+}
+
+#b2{
+    border: 2px solid black;
+    display: inline-block;
+    /* color: black; */
+}
