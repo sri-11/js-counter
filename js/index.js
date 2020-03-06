@@ -20,9 +20,9 @@ function dec(){
         val=op.value--;
         op.innerText=val;
 }
-else{
-    sub.disabled = true;
-    }
+// else{
+//     sub.disabled = true;
+//     }
 }
 add.addEventListener("click",inc);
 sub.addEventListener("click",dec);
